@@ -1,0 +1,14 @@
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\UASDasarPemrograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\UASDasarPemrograman.AssemblyInfoInputs.cache
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\UASDasarPemrograman.AssemblyInfo.cs
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\UASDasarPemrograman.csproj.CoreCompileInputs.cache
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\bin\Debug\net9.0\UASDasarPemrograman.exe
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\bin\Debug\net9.0\UASDasarPemrograman.deps.json
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\bin\Debug\net9.0\UASDasarPemrograman.runtimeconfig.json
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\bin\Debug\net9.0\UASDasarPemrograman.dll
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\bin\Debug\net9.0\UASDasarPemrograman.pdb
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\UASDasarPemrograman.dll
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\refint\UASDasarPemrograman.dll
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\UASDasarPemrograman.pdb
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\UASDasarPemrograman.genruntimeconfig.cache
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\ref\UASDasarPemrograman.dll
