@@ -185,8 +185,18 @@ public class Game
         Console.WriteLine($"Game selesai! Poin {user1.Nama}: {poin1.DapatkanPoin()}");
         Console.WriteLine($"Poin {user2.Nama}: {poin2.DapatkanPoin()}");
 
-        string pemenang = poin1.DapatkanPoin() > poin2.DapatkanPoin() ? user1.Nama : user2.Nama;
-        Console.WriteLine($"Pemenang: {pemenang}");
+        if (poin1.DapatkanPoin() > poin2.DapatkanPoin())
+        {
+            Console.WriteLine($"Pemenang: {user1.Nama}");
+        }
+        else if (poin1.DapatkanPoin() < poin2.DapatkanPoin())
+        {
+            Console.WriteLine($"Pemenang: {user2.Nama}");
+        }
+        else
+        {
+            Console.WriteLine("Game berakhir dengan seri!");
+        }
 
         Console.WriteLine("Apakah Anda ingin bermain lagi? (y/n)");
         string jawab = Console.ReadLine();
@@ -199,4 +209,5 @@ public class Game
             Console.WriteLine("Terima kasih sudah bermain!");
         }
     }
+
 }

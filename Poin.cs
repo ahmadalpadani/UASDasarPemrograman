@@ -15,8 +15,4 @@ public class Poin
         _poin += poin;
     }
 
-    public void BoostPoin(int multiplier)
-    {
-        _poin *= multiplier;
-    }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UASDasarPemrograman")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a683605a01749d3302c27e494000c7f532c0f52")]
 [assembly: System.Reflection.AssemblyProductAttribute("UASDasarPemrograman")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UASDasarPemrograman")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\refint\UASDasarPe
 C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\UASDasarPemrograman.pdb
 C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\UASDasarPemrograman.genruntimeconfig.cache
 C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\ref\UASDasarPemrograman.dll
+C:\UPH\Pemrograman Dasar'\UASDasarPemrograman\obj\Debug\net9.0\UASDasarPemrograman.sourcelink.json
